@@ -1,2 +1,2 @@
-# FREECODECAMP-PROJECTS
-Codes for completing certification of responsive web designing
+# Build a Tribute Page
+Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
