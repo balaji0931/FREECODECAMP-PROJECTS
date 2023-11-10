@@ -1,2 +1,2 @@
-# FREECODECAMP-PROJECTS
-Codes for completing certification of responsive web designing
+# Build a Product Landing Page
+Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
