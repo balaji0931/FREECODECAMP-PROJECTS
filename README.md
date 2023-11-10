@@ -1,2 +1,2 @@
-# FREECODECAMP-PROJECTS
-Codes for completing certification of responsive web designing
+# Build a Survey Form
+Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
